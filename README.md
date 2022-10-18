@@ -180,3 +180,4 @@ Jadi seperti itulah cara penggunaan python, mohon maaf jika ada kesalahan
 Terimakasih
 
 
+
